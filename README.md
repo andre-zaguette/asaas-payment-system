@@ -7,7 +7,7 @@ Este projeto oferece uma integração completa com o gateway de pagamento Asaas,
 clone o repositorio
 
 ```bash
-git clone [repository-url](https://github.com/orochidrake/asaas-payment-system)
+git clone https://github.com/orochidrake/asaas-payment-system
 cd asaas-payment-system
 ```
 
